@@ -1,3 +1,14 @@
+Install Node JS and Angular CLI
+
+Tutorial -  https://www.youtube.com/watch?v=5wtnKulcquA
+
+https://angular.io/guide/quickstart
+
+Google Maps- 
+bodrovis/GoogleMapsAngular
+
+
+
 # Ng7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
